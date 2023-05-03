@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Orkhan and I'm a QA Engineer, from Frankfurt Main, Germany.</p>
+<p align="left">My name is Anar and I'm a QA Engineer, from Frankfurt Main/ Germany.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Java and all about QA automation.<br>🎯 Goals : find a good team and work in interesting projects / stay in focus and enjoy every day.<br>🎲 Fun fact: I love ball games, chess online and books.</p>
+<p align="left">📚 I'm currently learning Java and all about QA automation.<br>📄 I have a solid background in QA manual.<br>📫 How to reach me - anaraliyev@gmx.de<br>🎯 Goals : find a good team and work in interesting projects / stay in focus and enjoy every day.<br>🎲 Fun fact: I love ball games, chess online and books.</p>
 
 ###
 
