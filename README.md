@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Java and all about QA automation.<br>📄 I have a solid background in QA manual.<br>📫 How to reach me - anaraliyev@gmx.de<br>🎯 Goals : find a good team and work in interesting projects / stay in focus and enjoy every day.<br>🎲 Fun fact: I love ball games, chess online and books.</p>
+<p align="left">📚 I'm currently learning Java and all about QA automation.<br>📄 I have a solid background in QA manual.<br>📫 How to reach me - anaraliyev@gmx.de<br>🎯 Goals : find work on interesting projects / stay focused and enjoy every challenge.<br>🎲 Fun fact: I love ball games, chess online and books.</p>
 
 ###
 
